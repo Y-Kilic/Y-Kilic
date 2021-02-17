@@ -2,4 +2,4 @@
 - 👀 I’m interested in anything related to software engineering!
 - 🌱 I’m currently learning multiple programming languages.
 - 💞️ I’m looking to collaborate on back-end infrastructure
-- 📫 How to reach me 
+- 📫 How to reach me: CyanGithub@protonmail.com
